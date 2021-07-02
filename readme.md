@@ -19,5 +19,5 @@ python脚本需要调用ysoserial-sleep.jar，ysoserial-sleep.jar文件并不是
 
 # RCE
 
-![images](https://github.com/zhzyker/shiro-1.2.4-rce/blob/master/image/1.gif)
-![images](https://github.com/zhzyker/shiro-1.2.4-rce/blob/master/image/2.gif)
+![images](/image/1.gif)
+![images](/image/2.gif)
